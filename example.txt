@@ -1,0 +1,2 @@
+7sip:thanhbk@sip.linphone.org8    sip:thanhbk@sip.linphone.org
+5    sip:thanhbk@sip.linphone.org

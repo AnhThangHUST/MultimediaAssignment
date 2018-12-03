@@ -1,0 +1,1 @@
+Duration: 41  Remote Address: sip:thanhbk@sip.linphone.org
